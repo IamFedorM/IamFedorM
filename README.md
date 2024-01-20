@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Fedor Mikhailov and I am a student in France. I am passionate about Data-Analysis and want to connect my future job with this. 
 <!--
 **IamFedorM/IamFedorM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
