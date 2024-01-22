@@ -40,5 +40,6 @@ Open to internships and opportunities where I can contribute and grow in the fie
 
 
 📫 Reach Out:
+
 Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/fedormv/) or email me at mikhailovfed@gmail.com for collaborations or just a chat about data and finance!
 
