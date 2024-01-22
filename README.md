@@ -24,11 +24,13 @@ Successfully managed cross-cultural transitions and diverse academic projects, s
 🔍 Currently Exploring:
 
 Delving deeper into data analytics and machine learning concepts.
+
 Exploring finance-related applications of data science and AI.
 
 🤝 Looking Forward:
 
 Eager to collaborate on projects involving data analysis in finance.
+
 Open to internships and opportunities where I can contribute and grow in the field of data analytics and financial technology.
 
 📫 Reach Out:
