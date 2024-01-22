@@ -10,12 +10,15 @@
 🛠 Technical Skills:
 
 Data Analysis: Advanced skills in Power BI and Excel for data visualization and analytics.
+
 Database Management: Proficient in SQL, adept at querying and managing large datasets.
+
 Programming Basics: Familiar with the basics of Python and R for data manipulation and analysis.
 
 📈 Professional Highlights:
 
-Demonstrated adaptability and problem-solving skills in dynamic environments, notably at LLC TRANSCOMMERCE SERVICE RUS.
+Demonstrated adaptability and problem-solving skills in dynamic environments, notably at LLC TRANSCOMMERCE SERVICE.
+
 Successfully managed cross-cultural transitions and diverse academic projects, showcasing flexibility and a quick learning curve.
 
 🔍 Currently Exploring:
