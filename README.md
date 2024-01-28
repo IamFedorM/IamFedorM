@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Fedor Mikhailov!
 
-🌍 About Me:
+🌍 **About Me:**
 
 🎓 I'm a second-year Bachelor student at ESC Clermont Business School, specializing in International Management with a focus on Finance.
 
@@ -12,7 +12,7 @@
 
 
 
-🛠 Technical Skills:
+🛠 **Technical Skills:**
 
 Data Analysis: Advanced skills in Power BI and Excel for data visualization and analytics.
 
@@ -22,7 +22,7 @@ Programming Basics: Familiar with the basics of Python and R for data manipulati
 
 
 
-📈 Professional Highlights:
+📈 **Professional Highlights:**
 
 Demonstrated adaptability and problem-solving skills in dynamic environments, notably at LLC TRANSCOMMERCE SERVICE.
 
@@ -30,7 +30,7 @@ Successfully managed cross-cultural transitions and diverse academic projects, s
 
 
 
-🔍 Currently Exploring:
+🔍 **Currently Exploring:**
 
 Delving deeper into data analytics and machine learning concepts.
 
@@ -38,7 +38,7 @@ Exploring finance-related applications of data science and AI.
 
 
 
-🤝 Looking Forward:
+🤝 **Looking Forward:**
 
 Eager to collaborate on projects involving data analysis in finance.
 
@@ -46,7 +46,7 @@ Open to internships and opportunities where I can contribute and grow in the fie
 
 
 
-📫 Reach Out:
+📫 **Reach Out:**
 
 Feel free to connect with me on LinkedIn or email me at mikhailovfed@gmail.com for collaborations or just a chat about data and finance!
 
