@@ -1,4 +1,4 @@
-![IamFedorM](Portfolio's background.png)
+![Portfolio Background](Portfolio's%20background.png)
 
 ### Hi there 👋 I'm Fedor Mikhailov!
 
