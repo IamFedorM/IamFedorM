@@ -1,3 +1,5 @@
+![IamFedorM](Portfolio's background.png)
+
 ### Hi there 👋 I'm Fedor Mikhailov!
 
 🌍 About Me:
