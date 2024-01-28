@@ -4,11 +4,11 @@
 
 🌍 **About Me:**
 
-🎓 I'm a second-year Bachelor student at ESC Clermont Business School, specializing in International Management with a focus on Finance.
+I'm a second-year Bachelor student at ESC Clermont Business School, specializing in International Management with a focus on Finance.
 
-📊 Passionate about data analysis, finance, and technology, I blend analytical acumen with a keen interest in financial innovations.
+Passionate about data analysis, finance, and technology, I blend analytical acumen with a keen interest in financial innovations.
 
-💡 I thrive on challenges and constantly seek to improve my skills, particularly in SQL, Power BI, and Excel.
+I thrive on challenges and constantly seek to improve my skills, particularly in SQL, Power BI, and Excel.
 
 
 
