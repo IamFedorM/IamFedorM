@@ -1,6 +1,6 @@
-![Portfolio Background](Portfolio's%20background.png)
-
 ### Hi there 👋 I'm Fedor Mikhailov!
+
+![Portfolio Background](Portfolio's%20background.png)
 
 🌍 **About Me:**
 
